@@ -1,15 +1,6 @@
- <img alt="gfi" src="https://github.com/Muhammad-Noman59/MediStock/blob/master/Screen%20Shots/MediStock-Cover.png">
-
-
-
-
 # MediStock
 
 **MediStock** is an educational Android application for inventory management, developed as a learning project. The application consists of two separate apps: a **User app** and an **Admin app**, with backend APIs built using Flask and hosted on PythonAnywhere.
-
-## Disclaimer
-
-This project is developed solely for learning purposes. It is not secure and should not be used in production environments.
 
 ## Features
 
@@ -26,36 +17,7 @@ This project is developed solely for learning purposes. It is not secure and sho
 - **User Management**: Admins can add new users, view all approved users, manage pending user requests, and disapprove users.
 - **Product Management**: Admins can add, view, and manage products available for orders.
 - **Order Approval**: Admins can approve or disapprove orders placed by users.
-
-[Download MediStock App Video](https://github.com/Muhammad-Noman59/MediStock/raw/0cbf24139d9b334c09a9cacaaeccfaf0fc667b28/MediStock%20App%20Video.mp4?download=)
-
-
-
-## Screenshots
-
-Here are some screenshots from the MediStock app:
-
-<p float="left">
-  <img src="https://github.com/Muhammad-Noman59/MediStock/blob/master/Screen%20Shots/image.png" width="200" />
-  <img src="https://github.com/Muhammad-Noman59/MediStock/blob/master/Screen%20Shots/image1(5).png" width="200" />
-  <img src="https://github.com/Muhammad-Noman59/MediStock/blob/master/Screen%20Shots/image1(7).png" width="200" />
-  <img src="https://github.com/Muhammad-Noman59/MediStock/blob/master/Screen%20Shots/image1(6).png" width="200" />
-</p>
-
-<p float="left">
-  <img src="https://github.com/Muhammad-Noman59/MediStock/blob/master/Screen%20Shots/image1.png" width="200" />
-  <img src="https://github.com/Muhammad-Noman59/MediStock/blob/master/Screen%20Shots/image1(8).png" width="200" />
-  <img src="https://github.com/Muhammad-Noman59/MediStock/blob/master/Screen%20Shots/image1(1).png" width="200" />
-  <img src="https://github.com/Muhammad-Noman59/MediStock/blob/master/Screen%20Shots/image1(3).png" width="200" />
-</p>
-
-<p float="left">
-  <img src="https://github.com/Muhammad-Noman59/MediStock/blob/master/Screen%20Shots/image1(4).png" width="200" />
-  <img src="https://github.com/Muhammad-Noman59/MediStock/blob/master/Screen%20Shots/image1(2).png" width="200" />
-  <img src="https://github.com/Muhammad-Noman59/MediStock/blob/master/Screen%20Shots/image1(11).png" width="200" />
-  <img src="https://github.com/Muhammad-Noman59/MediStock/blob/master/Screen%20Shots/image1(10).png" width="200" />
-</p>
-
+  
 ## Technology Stack
 
 ### User and Admin Apps
@@ -86,20 +48,11 @@ Developing MediStock has been an amazing learning experience. Here are some of t
 
 This project has been full of learning opportunities and has helped me grow as a developer.
 
-## Download APKs
-
-You can download the APKs for the User and Admin apps from the links below:
-
-- [Download User App APK](https://github.com/Muhammad-Noman59/MediStock/releases/download/1.1/MediStock.apk)
-- [Download Admin App APK](https://github.com/Muhammad-Noman59/MediStock/releases/download/1.1/AdminOfMediStock.apk)
-
-
 ## Getting Started
 
 ### API Hosting
 
 The backend APIs for MediStock are hosted on PythonAnywhere. Ensure to update your base URL in the Retrofit configuration to point to the hosted API.
-
 
 ### Prerequisites
 
@@ -144,16 +97,30 @@ The backend APIs for MediStock are hosted on PythonAnywhere. Ensure to update yo
     flask run
     ```
 
-## Supporting
-- **Financial Support**
-<p align="left">  <a href="https://coindrop.to/muhammad-noman59" target="blank"><img align="center" src="https://github.com/Muhammad-Noman59/Tip-And-Bill-Calculator/assets/164490322/ee086675-e265-4457-a07e-9d2d7ad9e671" height="100" width="250" /></a></p>
+Gif Preview :
 
+![Funny GIF](https://i.imgflip.com/9x3xi9.gif)
 
-## Contact Me
+![Descriptive alt text](https://i.imgflip.com/9x3xn0.gif)
 
-<p align="left">  <a href="https://wa.me/923104881573" target="blank"><img align="center" src="https://seeklogo.com/images/W/whatsapp-icon-logo-BDC0A8063B-seeklogo.com.png" height="35" width="35" /></a> <a href="https://www.facebook.com/profile.php?id=100092720556743&mibextid=ZbWKwL" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=100092720556743" height="35" width="35" /></a> <a href="https://linkedin.com/in/muhammad-noman59" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhammad-noman59" height="35" width="35" /></a>
+![My GIF](https://imgflip.com/gif/9x3xts.gif)
 
----
+![Funny GIF](https://i.imgflip.com/9x3xxt.gif)
 
- <img alt="gfi" src="https://github.com/Muhammad-Noman59/Muhammad-Noman59/blob/main/Thnks%20For%20Watching.gif">
+![Funny GIF](https://i.imgflip.com/9x3y4e.gif)
+
+![Demo](https://i.imgflip.com/9x3y8c.gif)
+
+![Funny GIF](https://i.imgflip.com/9x3ylz.gif)
+
+![My GIF](https://i.imgflip.com/9x3yv1.gif)
+
+![Funny GIF](https://i.imgflip.com/9x3z33.gif)
+
+![Funny GIF](https://i.imgflip.com/9x3z8o.gif)
+
+![Funny Meme GIF](https://i.imgflip.com/9x3zbn.gif)
+
+![Funny GIF](https://i.imgflip.com/9x3zel.gif)
+
 
